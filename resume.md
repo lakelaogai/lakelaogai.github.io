@@ -16,9 +16,9 @@ Experience
 
 _Remote - Oct 2022 - Present_
 
-Leveraging Kubernetes Container Storage Interfaces to develop Container Storage Modules for Dell storage, React user interfaces
-and RESTful API services to create a cohesive SaaS platform for
-Dell “Power” series storage.
+Building Dell Container Storage Modules utilizing Kubernetes CSI, React user
+interfaces and RESTful API services to create a cohesive SaaS platform
+for Dell's "Power" series storage systems.
 
 *   Developing internationalized web user interfaces with React.
 *   Identifying inefficient and error-prone processes and improving them
@@ -31,7 +31,7 @@ Dell “Power” series storage.
 *   Maintained and expanded the functionality of Kubernetes CSI drivers
     for proprietary storage platforms.
 *   Managed Kubernetes deployments and Typescript development for
-    customer-facing micro-frontend
+    customer-facing micro-frontend.
 *   Collaborated with cross-functional Scrum teams to design innovative
     software solutions.
 
@@ -74,5 +74,5 @@ CICD/Auto:
 Standards:
 :   REST, gRPC
 
-Misc:
+Other:
 :   CLI, Doxygen
