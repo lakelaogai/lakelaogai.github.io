@@ -59,9 +59,20 @@ May 2018
 Tech Stack
 ----------
 
-**DevOps:** Kubernetes, Helm, Docker, git, Make  
-**Languages:** Javascript/Typescript, golang, C, shell/bash,  
-**Frameworks:** React, Redux  
-**CICD/Automation:** Jenkins/groovy  
-**Standards:** REST, gRPC  
-**Misc:** CLI, Doxygen
+DevOps:
+:   Kubernetes, Helm, Docker, git, Make
+
+Languages:
+:   Javascript/Typescript, golang, C, shell/bash,
+
+Frameworks:
+:   React, Redux
+
+CICD/Auto:
+:   Jenkins/groovy
+
+Standards:
+:   REST, gRPC
+
+Misc:
+:   CLI, Doxygen
