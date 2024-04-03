@@ -1,13 +1,13 @@
 Luke Lau
-==========
+============================
 
-------------------------------------------
+----------------------------
 
-> Stillwater, OK        lukelau2@gmail.com
-> United States      linkedin.com/in/llau/
->                             918-859-5139
-
-------------------------------------------
+|                   |                                                       |
+| :---------------- | ----------------------------------------------------: |
+| Stillwater, OK    | 918-859-5139                                          |
+| United States     | <lukelau2@gmail.com>                                  |
+|                   | [linkedin.com/in/llau/](https://linkedin.com/in/llau) |
 
 Experience
 ----------
@@ -16,14 +16,18 @@ Experience
 
 _Remote - Oct 2022 - Present_
 
-Developing Kubernetes container storage modules, React user interfaces
-and RESTful API servers to create a cohesive SaaS platform for
+Leveraging Kubernetes Container Storage Interfaces to develop Container Storage Modules for Dell storage, React user interfaces
+and RESTful API services to create a cohesive SaaS platform for
 Dell “Power” series storage.
 
+*   Developing internationalized web user interfaces with React.
+*   Identifying inefficient and error-prone processes and improving them
+    using automation.
+*   Writing techincal documentation to accompany process improvments to
+    support and expedite internal and external team member onboarding.
 *   Developed scalable Golang applications using agile methodologies
     for timely project delivery.
-*   Enhanced REST API functionality and performance by identifying and
-    resolving complex technical issues.
+*   REST API functionality 
 *   Maintained and expanded the functionality of Kubernetes CSI drivers
     for proprietary storage platforms.
 *   Managed Kubernetes deployments and Typescript development for
@@ -51,3 +55,13 @@ May 2018
 :   **BSc: Electrical Engineering Technology**, Oklahoma State University
 
     *Summa Cum Laude*
+
+Tech Stack
+----------
+
+**DevOps:** Kubernetes, Helm, Docker, git, Make  
+**Languages:** Javascript/Typescript, golang, C, shell/bash,  
+**Frameworks:** React, Redux  
+**CICD/Automation:** Jenkins/groovy  
+**Standards:** REST, gRPC  
+**Misc:** CLI, Doxygen
