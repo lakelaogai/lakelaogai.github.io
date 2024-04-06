@@ -21,8 +21,8 @@ interfaces and RESTful API services to create a cohesive SaaS platform
 for Dell's "Power" series storage systems.
 
 *   Developing internationalized web user interfaces with React and Redux for 
-    frontend, SpringBoot framework for backend and Maven to tie the two
-    together.
+    frontend, SpringBoot framework to serve the application and Maven to 
+    tie the two together.
 *   Point of contact for all activities relating to integrating our team's
     portion of the UI with the parent application. Activities included
     triaging, debugging and writing solutions to resolve product defects
