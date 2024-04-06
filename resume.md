@@ -5,8 +5,8 @@ Luke Lau
 
 |                   |                                                       |
 | :---------------- | ----------------------------------------------------: |
-| Stillwater, OK    | 918-859-5139                                          |
-| United States     | <lukelau2@gmail.com>                                  |
+| Stillwater, OK    |                                          918-859-5139 |
+| United States     |                                  <lukelau2@gmail.com> |
 |                   | [linkedin.com/in/llau/](https://linkedin.com/in/llau) |
 
 Experience
