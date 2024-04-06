@@ -20,20 +20,21 @@ Building Dell Container Storage Modules utilizing Kubernetes CSI, React user
 interfaces and RESTful API services to create a cohesive SaaS platform
 for Dell's "Power" series storage systems.
 
-*   Developing internationalized web user interfaces with React.
+*   Developing internationalized web user interfaces with React and Redux for 
+    frontend, SpringBoot framework for backend and Maven to tie the two
+    together.
+*   POC for all activites relating to integrating our team's portion of the
+    UI with the parent application. Activities included triaging, debugging
+    and writing solutions to resolve product defects and collaborating with 
+    external teams to align product goals.
 *   Identifying inefficient and error-prone processes and improving them
     using automation.
 *   Writing techincal documentation to accompany process improvments to
     support and expedite internal and external team member onboarding.
-*   Developed scalable Golang applications using agile methodologies
-    for timely project delivery.
-*   REST API functionality 
 *   Maintained and expanded the functionality of Kubernetes CSI drivers
-    for proprietary storage platforms.
+    for proprietary storage platforms using Golang.
 *   Managed Kubernetes deployments and Typescript development for
     customer-facing micro-frontend.
-*   Collaborated with cross-functional Scrum teams to design innovative
-    software solutions.
 
 **Stillwater Designs & Audio (_KICKER_) - Embedded Engineer**
 
